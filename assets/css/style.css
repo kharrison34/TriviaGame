@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color: black;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+.jumbotron{
+    background-color: black;
+    color: white;
+}
+
+#showQuestions{
+    background-color: red;
+    color: black;
+}
+
+.imageclass{
+    float: left;
+    width: 100%;
+    /* padding-bottom: */
+    height: 350px;
+    
+}
